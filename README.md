@@ -23,8 +23,6 @@ The logic showcased in this webpage is designed to be implemented with the follo
 | **Arduino UNO** | The central processing unit for sensor logic and motor control. |
 | **HC-SR04 Sensor** | Emits ultrasonic waves to calculate distance to the nearest object. |
 | **Servo Motor** | Rotates the sensor to provide a wide-angle field of view. |
-| **LCD 16x2 (I2C)** | Displays system status: `SCANNING`, `WARNING`, or `AREA CLEAR`. |
-| **Buzzer & LEDs** | Provides immediate audio-visual alerts when an object is too close. |
 
 ---
 
