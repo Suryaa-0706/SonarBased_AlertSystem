@@ -150,8 +150,6 @@ footer span{color:var(--accent)}
     <div class="flow-step"><div class="step-num">INIT</div><div class="step-content"><h4>System Startup</h4><p>Arduino powers up. All components get initialized. LCD shows "Scanning..." and servo moves to starting position.</p></div></div>
     <div class="flow-step"><div class="step-num">SCAN</div><div class="step-content"><h4>Rotational Scanning</h4><p>Servo motor rotates the ultrasonic sensor left to right. At each angle, the sensor emits ultrasonic pulses and listens for reflections.</p></div></div>
     <div class="flow-step"><div class="step-num">DETECT</div><div class="step-content"><h4>Object Detection</h4><p>Arduino calculates distance from the time delay of returning sound waves. If an object is within threshold, an alert is triggered.</p></div></div>
-    <div class="flow-step"><div class="step-num">ALERT</div><div class="step-content"><h4>Warning Output</h4><p>LCD shows "WARNING FOREIGN BODY!" and buzzer/LED turn ON. After alert, servo continues scanning in a continuous loop.</p></div></div>
-    <div class="flow-step"><div class="step-num">CLEAR</div><div class="step-content"><h4>Clear Zone</h4><p>If no object detected, LCD shows "AREA IS EMPTY" — buzzer stays OFF and scanning continues uninterrupted.</p></div></div>
   </div>
 </section>
 
