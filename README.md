@@ -54,7 +54,10 @@ The system follows a specific operational loop:
 ---
 
 ## 👥 Contributors (Group 8)
-* **AIE Group 08** - *Concept, UI Design, and Logic Implementation*
+1. M Mahendra - CB.SC.U4AIE24033
+2. K Siva Kumar - CB.SC.U4AIE24027
+3. K Usman Shareef - CB.SC.U4AIE24024
+4. G Chaitanya Varma - CB.SC.U4AIE24017
 
 ---
 *Developed for the Robotics and Autonomous Systems Project.*
